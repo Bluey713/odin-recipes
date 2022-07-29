@@ -2,13 +2,16 @@ p{
     color: blue;
 }
 
-.headimg{
+.mainimg{
     width: auto;
     height: 400px;
     align-content: center;
 
 }
 
-h1{
+.header{
     text-align: center;
+    background-color: lightgreen;
+    font-family: sans-serif, 'Times New Roman', Times, serif;
+    color: red;
 }
