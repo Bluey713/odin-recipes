@@ -1,17 +1,9 @@
-p{
-    color: blue;
+*{
+    background-color: beige
 }
 
-.mainimg{
-    width: auto;
-    height: 400px;
-    align-content: center;
-
-}
-
-#landscape{
-    width: 250px;
-    height: 250px;
+div{
+    font-family: sans-serif;
 }
 
 .header{
@@ -19,4 +11,39 @@ p{
     background-color: lightgreen;
     font-family: sans-serif, 'Times New Roman', Times, serif;
     color: red;
+    font-size: 25px;
+
 }
+
+.links {
+    color: blue;
+    font-size: 25px ;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titles {
+    color: black;
+    font-size: large;
+
+}
+
+/* .mainimg{
+    width: auto;
+    height: 200px;
+} */
+
+.descriptions{
+    font-size: 18px;
+
+}
+
+.ingredients{
+    font-size: 20px;
+    background-color: lightgreen;
+
+}
+
+.ing-list{
+    font-size: 20px;
+}
+
